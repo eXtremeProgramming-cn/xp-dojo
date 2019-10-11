@@ -1,0 +1,21 @@
+.markdown-section blockquote {
+	background-color: #e5e5e5;
+	color: black;
+	padding: 15px 15px 5px 15px;
+	border-radius: 5px;
+}
+
+.markdown-section img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.markdown-section hr {
+	border-style: dashed;
+	height: 0;
+	width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
